@@ -4,8 +4,8 @@ This repo is to help you wear a mask on a video based on face detection.
 
 <!-- show two gif at the same row -->
 
-![alt-text](example/ori_ezgif.com-gif-maker.gif) 
 ![alt-text](example/ezgif.com-gif-maker.gif)
+![alt-text](example/ori_ezgif.com-gif-maker.gif) 
 
 
 
