@@ -1,0 +1,4 @@
+moviepy
+gradio
+path
+insightface
