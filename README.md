@@ -15,7 +15,8 @@ This repo is to help you wear a mask on a video based on face detection.
 ## 1. Clone this repo
 
 ```
-git clone
+git clone https://github.com/wuchangsheng951/Wear_Mask_For_Video
+cd Wear_Mask_For_Video
 ```
 
 ## 2. Install requirements
